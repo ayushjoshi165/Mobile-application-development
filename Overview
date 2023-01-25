@@ -1,0 +1,8 @@
+Every thing in flutter is a widget
+
+eventaullay we will end up creating a widget tree
+
+widget is a fundamental building block 
+
+if we make any changes then that perticular widget only going to change
+
